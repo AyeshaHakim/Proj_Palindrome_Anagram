@@ -1,4 +1,4 @@
-# AYESHA_HAKIM_LIC_Coding
+# AYESHA HAKIM - LIC Coding Test Solution Submitted on 14-12-2016
 The code contains two classes: MainClass and palindrome
 Main Class is the entry point that invites user to enter a valid string, gives instructions, 
 instantiate palindrome class and calls three function:
