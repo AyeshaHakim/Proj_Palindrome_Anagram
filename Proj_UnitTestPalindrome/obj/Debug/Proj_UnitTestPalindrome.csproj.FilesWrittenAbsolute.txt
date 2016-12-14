@@ -1,0 +1,8 @@
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_UnitTestPalindrome/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_UnitTestPalindrome/bin/Debug/Proj_UnitTestPalindrome.dll.mdb
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_UnitTestPalindrome/bin/Debug/Proj_UnitTestPalindrome.dll
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_UnitTestPalindrome/obj/Debug/Proj_UnitTestPalindrome.dll
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_UnitTestPalindrome/obj/Debug/Proj_UnitTestPalindrome.dll.mdb
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_UnitTestPalindrome/bin/Debug/nunit.framework.dll
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_UnitTestPalindrome/bin/Debug/Proj_Palindrome_Anagram.exe
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_UnitTestPalindrome/bin/Debug/Proj_Palindrome_Anagram.exe.mdb

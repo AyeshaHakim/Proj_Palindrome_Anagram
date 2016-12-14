@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proj_Palindrome_Anagram", "Proj_Palindrome_Anagram\Proj_Palindrome_Anagram.csproj", "{8FEA66EF-AA78-4B47-A7F8-EE9DA9B5704F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proj_UnitTestPalindrome", "Proj_UnitTestPalindrome\Proj_UnitTestPalindrome.csproj", "{9818C5E5-CC70-49E4-8977-BD6D2906B442}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{8FEA66EF-AA78-4B47-A7F8-EE9DA9B5704F}.Debug|x86.Build.0 = Debug|x86
 		{8FEA66EF-AA78-4B47-A7F8-EE9DA9B5704F}.Release|x86.ActiveCfg = Release|x86
 		{8FEA66EF-AA78-4B47-A7F8-EE9DA9B5704F}.Release|x86.Build.0 = Release|x86
+		{9818C5E5-CC70-49E4-8977-BD6D2906B442}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9818C5E5-CC70-49E4-8977-BD6D2906B442}.Debug|x86.Build.0 = Debug|Any CPU
+		{9818C5E5-CC70-49E4-8977-BD6D2906B442}.Release|x86.ActiveCfg = Release|Any CPU
+		{9818C5E5-CC70-49E4-8977-BD6D2906B442}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
