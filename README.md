@@ -36,4 +36,4 @@ is_Palindrom_or_AnagramTest: test whether the given string is a palindrome or an
 
 is_Palindrom_and_AnagramTest: test whether the given string is both a palindrome and an anagram
 
-The solution also includes screen shots of the result of these automated tests showing that it passed all 28 tests successfully.
+The solution also includes screen shots of the result of these automated tests showing that it passed all 28 tests successfully. It means these functions are behaving as expected.
