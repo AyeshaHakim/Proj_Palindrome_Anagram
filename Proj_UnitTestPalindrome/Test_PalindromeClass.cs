@@ -3,7 +3,7 @@ using System;
 namespace Palindrome_Anagram
 {
 	[TestFixture()]
-	public class Test_isPalindrome
+	public class Test_PalindromeClass
 	{
 		[TestCase("anna", Result=true)]
 		[TestCase("aaaaaaaa", Result = true)]

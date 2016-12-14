@@ -1,15 +1,23 @@
 ﻿<Properties StartupConfiguration="{8FEA66EF-AA78-4B47-A7F8-EE9DA9B5704F}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Proj_UnitTestPalindrome/Test_isPalindrome.cs">
     <Files>
       <File FileName="Proj_Palindrome_Anagram/Program.cs" Line="11" Column="59" />
       <File FileName="Proj_Palindrome_Anagram/PalindromeClass.cs" Line="4" Column="29" />
-      <File FileName="Proj_UnitTestPalindrome/Test_isPalindrome.cs" Line="12" Column="16" />
+      <File FileName="Proj_UnitTestPalindrome/Test_isPalindrome.cs" Line="49" Column="42" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Proj_Palindrome_Anagram" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|x86" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Proj__UnitTestPalindrome PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Proj__Palindrome__Anagram PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

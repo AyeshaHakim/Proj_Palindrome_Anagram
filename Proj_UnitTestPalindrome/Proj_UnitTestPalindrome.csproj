@@ -31,7 +31,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Test_isPalindrome.cs" />
+    <Compile Include="Test_PalindromeClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
