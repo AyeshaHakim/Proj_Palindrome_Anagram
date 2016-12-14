@@ -1,5 +1,5 @@
 ﻿// Program developed by Ayesha Hakim for LIC conding test (14-12-2016)
-// Git repo: https://github.com/AyeshaHakim/AYESHA_HAKIM_LIC_Coding
+// Git repo: https://github.com/AyeshaHakim/Proj_Palindrome_Anagram
 using System;
 namespace Palindrome_Anagram
 {
