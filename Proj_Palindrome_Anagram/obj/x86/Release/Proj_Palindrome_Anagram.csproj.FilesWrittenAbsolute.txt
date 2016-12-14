@@ -1,0 +1,3 @@
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_Palindrome_Anagram/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_Palindrome_Anagram/bin/Release/Proj_Palindrome_Anagram.exe
+/Users/cer/Documents/Csharp_projects/Proj_Palindrome_Anagram/Proj_Palindrome_Anagram/obj/x86/Release/Proj_Palindrome_Anagram.exe
