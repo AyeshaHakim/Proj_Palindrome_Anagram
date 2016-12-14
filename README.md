@@ -1,6 +1,9 @@
 # AYESHA HAKIM - LIC Coding Test Solution Submitted on 14-12-2016
 
-The program contains two class files: Program.cs and PalindromeClass.cs
+The solution contains two projects: Proj_Palindrome_Anagram and Proj_UnitTestPalindrome
+
+***************************************************************************************************************
+The first project "Proj_Palindrome_Anagram" contains two class files: Program.cs and PalindromeClass.cs
 
 Program.cs contains class 'MainClass' and PalindromeClass contains class 'PalindromeClass'.
 
@@ -18,28 +21,19 @@ The function also checks is the string is neither a palindrome, not an anagram a
 All three functions are protected by try catch block to avoid any exception.
 
 The functions are called under a loop continuously asking for input from user unless the key 'n' is pressed.
-The repo has the "Terminal Saved Output" in a text document that contains the test cases for the following scenerios:
 
-We must enter a string.
+******************************************************************************************************************
 
-Captial String is invalid.
+The second project "Proj_UnitTestPalindrome" contains one class file: Test_PalindromeClass.cs
 
-*** is invalid.
+Test_PalindromeClass contains one class Test_PalindromeClass that contains four unit test functions:
 
-123 is invalid.
+is_PalindromeTest: test whether the given string is a palindrome
 
-anna is a Palindrome.
+is_AnagramTest: test whether the given string is a anagram
 
-abc is neither a Palindrome nor an Anagram of a Palindrome.
+is_Palindrom_or_AnagramTest: test whether the given string is a palindrome or anagram
 
-aaaaaaaa is a Palindrome.
+is_Palindrom_and_AnagramTest: test whether the given string is both a palindrome and an anagram
 
-aaaaaaaab an Anagram of a Palindrome.
-
-caaaaaaaab is neither a Palindrome nor an Anagram of a Palindrome.
-
-donotbobtonod is a Palindrome.
-
-owefhijpfwai is neither a Palindrome nor an Anagram of a Palindrome.
-
-igdedgide is an Anagram of a Palindrome.
+The solution also includes screen shots of the result of these automated tests showing that it passed all 28 tests successfully.
